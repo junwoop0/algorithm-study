@@ -4,8 +4,8 @@ A repository for enhancing coding skills in algorithm and data structure through
 
 ## Structure
 
-- `leetcode/` — problems from [Leetcode](https://leetcode.com/)
-- `baekjoon/` - problems from [Baekjoon Online Judge](https://www.acmicpc.net/)
+- `leetcode/`: problems from [Leetcode](https://leetcode.com/)
+- `baekjoon/`: problems from [Baekjoon Online Judge](https://www.acmicpc.net/)
 
 ## Progress
 
