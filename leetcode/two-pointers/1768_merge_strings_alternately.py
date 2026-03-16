@@ -24,7 +24,7 @@ class Solution:
         return ans
     
 '''
-Note
+Notes
 If you want to connect elements of a list into a string, you can use the join() method.
     - Ex) my_list = ['H', 'e', 'l', 'l', 'o']
           result = ''.join(my_list)  # result will be 'Hello'
