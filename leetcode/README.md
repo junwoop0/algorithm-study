@@ -8,3 +8,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 |---------|---------|------------|--------|
 | 1768. Merge Strings Alternately | Two Pointers | Easy | 10 min |
 | 1071. Greatest Common Divisor of Strings | String | Easy | 30 min |
+| 1431. Kids With the Greatest Number of Candies | Array | Easy | 5 min |
