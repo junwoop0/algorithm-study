@@ -11,3 +11,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 1431. Kids With the Greatest Number of Candies | Array | Easy | 5 min |
 | 605. Can Place Flowers | Array, Greedy | Easy | 20 min |
 | 345. Reverse Vowels of a String | String, Two Pointers | Easy | 15 min |
+| 283. Move Zeroes | Two Pointers, Array | 10 min |
