@@ -1,7 +1,7 @@
 # Problem: 283. Move Zeroes
 # Time: O(n^2)
 # Space: O(1)
-# URL: https://leetcode.com/problems/move-zeroes/description/
+# URL: https://leetcode.com/problems/move-zeroes/
 
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:

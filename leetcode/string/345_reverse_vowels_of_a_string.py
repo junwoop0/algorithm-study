@@ -1,7 +1,7 @@
 # Problem: 345. Reverse Vowels of a String
 # Time: O(n)
 # Space: O(n)
-# URL: https://leetcode.com/problems/reverse-vowels-of-a-string/description/
+# URL: https://leetcode.com/problems/reverse-vowels-of-a-string/
 
 class Solution:
     def reverseVowels(self, s: str) -> str:

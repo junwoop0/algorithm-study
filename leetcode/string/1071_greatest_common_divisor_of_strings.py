@@ -1,7 +1,7 @@
 # Problem: 1071. Greatest Common Divisor of Strings
 # Time: O((n + m) * min(n, m))
 # Space: O(n + m)
-# URL: https://leetcode.com/problems/greatest-common-divisor-of-strings/description/
+# URL: https://leetcode.com/problems/greatest-common-divisor-of-strings/
 
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:

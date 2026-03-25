@@ -1,7 +1,7 @@
 # Problem: 1768. Merge Strings Alternately
 # Time: O(n + m)
 # Space: O(n + m)
-# URL: https://leetcode.com/problems/merge-strings-alternately/description/
+# URL: https://leetcode.com/problems/merge-strings-alternately/
 
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:

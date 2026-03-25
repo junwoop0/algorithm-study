@@ -1,7 +1,7 @@
 # Problem: 605. Can Place Flowers
 # Time: O(n)
 # Space: O(1)
-# URL: https://leetcode.com/problems/can-place-flowers/description/
+# URL: https://leetcode.com/problems/can-place-flowers/
 
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:

@@ -1,7 +1,7 @@
 # Problem: 1431. Kids With the Greatest Number of Candies
 # Time: O(n^2)
 # Space: O(n)
-# URL: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/
+# URL: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
