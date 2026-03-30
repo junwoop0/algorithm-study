@@ -9,3 +9,9 @@ class Solution:
         for i in range(len(gain)):
             alt.append(alt[i] + gain[i])
         return max(alt)
+    
+'''
+Notes
+- You can make space O(1) by keeping track of the current altitude and max altitude instead of storing all altitudes in a list.
+    - Use "for i in gain:"
+'''
