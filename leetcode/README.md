@@ -14,3 +14,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 283. Move Zeroes | Two Pointers, Array | 10 min |
 | 392. Is Subsequence | Two Pointers, String | 15 min |
 | 643. Maximum Average Subarray I | Sliding Window, Array | 20 min |
+| 1732. Find the Highest Altitude | Prefix Sum, Array | 3 min |
