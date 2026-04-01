@@ -17,3 +17,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 1732. Find the Highest Altitude | Prefix Sum, Array | 3 min |
 | 724. Find Pivot Index | Prefix Sum, Array | 10 min |
 | 2215. Find the Difference of Two Arrays | Hash Table, Array | 10 min |
+| 1207. Unique Number of Occurrences | Hash Table, Array | 20 min |
