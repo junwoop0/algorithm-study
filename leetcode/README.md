@@ -20,3 +20,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 1207. Unique Number of Occurrences | Hash Table, Array | 20 min |
 | 933. Number of Recent Calls | Queue | 25 min |
 | 206. Reverse Linked List | Linked List | 45 min |
+| 104. Maximum Depth of Binary Tree | Tree, Depth-First Search | 30 min |
