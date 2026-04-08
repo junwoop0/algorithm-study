@@ -21,3 +21,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 933. Number of Recent Calls | Queue | 25 min |
 | 206. Reverse Linked List | Linked List | 45 min |
 | 104. Maximum Depth of Binary Tree | Tree, Depth-First Search | 30 min |
+| 872. Leaf-Similar Trees | Tree, Depth-First Search | 20 min |
