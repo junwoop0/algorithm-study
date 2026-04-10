@@ -22,3 +22,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 206. Reverse Linked List | Linked List | 45 min |
 | 104. Maximum Depth of Binary Tree | Tree, Depth-First Search | 30 min |
 | 872. Leaf-Similar Trees | Tree, Depth-First Search | 20 min |
+| 700. Search in a Binary Search Tree | Tree, Binary Search Tree | 40 min |
