@@ -1,6 +1,6 @@
 # Problem: 1137. N-th Tribonacci Number
-# Time:
-# Space:
+# Time: O(n)
+# Space: O(n)
 # URL: https://leetcode.com/problems/n-th-tribonacci-number/
 
 class Solution:
