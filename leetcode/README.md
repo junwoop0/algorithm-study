@@ -25,3 +25,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 700. Search in a Binary Search Tree | Tree, Binary Search Tree | 40 min |
 | 374. Guess Number Higher or Lower | Binary Search | 45 min |
 | 1137. N-th Tribonacci Number | Dynamic Programming, Memoization | 10 min |
+| 746. Min Cost Climbing Stairs | Dynamic Programming, Array | 40 min |

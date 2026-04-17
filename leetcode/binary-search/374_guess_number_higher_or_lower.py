@@ -1,6 +1,6 @@
 # Problem: 374. Guess Number Higher or Lower
-# Time: 
-# Space: 
+# Time: O(log n)
+# Space: O(1)
 # URL: https://leetcode.com/problems/guess-number-higher-or-lower/
 
 # The guess API is already defined for you.
