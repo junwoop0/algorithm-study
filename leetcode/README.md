@@ -29,3 +29,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 338. Counting Bits | Bit Manipulation, Dynamic programming | 40 min |
 | 136. Single Number | Bit Manipulation, Array | 5 min |
 | 151. Reverse Words in a String | String, Two Pointers | 10 min |
+| 238. Product of Array Except Self | Array, Prefix Sum | 30 min |
