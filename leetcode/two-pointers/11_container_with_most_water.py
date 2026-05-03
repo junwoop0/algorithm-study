@@ -1,6 +1,6 @@
 # Problem: 11. Container With Most Water
-# Time: 
-# Space: 
+# Time: O(n)
+# Space: O(1)
 # URL: https://leetcode.com/problems/container-with-most-water/
 
 class Solution:

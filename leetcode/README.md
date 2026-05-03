@@ -31,3 +31,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 151. Reverse Words in a String | String, Two Pointers | 10 min |
 | 238. Product of Array Except Self | Array, Prefix Sum | 30 min |
 | 11. Container With Most Water | Two Pointers, Array | 30 min |
+| 1456. Maximum Number of Vowels in a Substring of Given Length | Sliding Window, String | 15 min |
