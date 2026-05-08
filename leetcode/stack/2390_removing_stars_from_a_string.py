@@ -1,6 +1,6 @@
 # Problem: 2390. Removing Stars From a String
-# Time:
-# Space:
+# Time: O(n)
+# Space: O(n)
 # URL: https://leetcode.com/problems/removing-stars-from-a-string/
 
 class Solution:

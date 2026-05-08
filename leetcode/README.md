@@ -34,3 +34,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 1456. Maximum Number of Vowels in a Substring of Given Length | Sliding Window, String | 15 min |
 | 1657. Determine if Two Strings Are Close | Hash Table, String | 30 min |
 | 2390. Removing Stars From a String | Stack, String | 25 min |
+| 2095. Delete the Middle Node of a Linked List | Linked List, Two Pointers | 40 min |

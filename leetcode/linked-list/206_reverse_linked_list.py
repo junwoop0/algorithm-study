@@ -26,4 +26,5 @@ class Solution:
 '''
 Notes
 - Always think of the case with empty list
+- If you write it like head.next, prev, head = prev, head, head.next, python stores all the right hand side first and then assign them to the left hand side.
 '''
