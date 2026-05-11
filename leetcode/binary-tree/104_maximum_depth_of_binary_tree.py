@@ -23,7 +23,7 @@ class Solution:
                 return
             recursive(root.left)
             recursive(root.right)
-            count -= 1
+            count -= 1 # You need to subtract 1 when you climb up the tree, because you are going back to the parent node
         recursive(root)
         return depth
     

@@ -1,6 +1,6 @@
 # Problem: 872. Leaf-Similar Trees
-# Time:
-# Space: 
+# Time: O(n)
+# Space: O(n)
 # URL: https://leetcode.com/problems/leaf-similar-trees/
 
 # Definition for a binary tree node.
