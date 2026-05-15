@@ -36,3 +36,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 2390. Removing Stars From a String | Stack, String | 25 min |
 | 2095. Delete the Middle Node of a Linked List | Linked List, Two Pointers | 40 min |
 | 1448. Count Good Nodes in Binary Tree | Binary Tree, Depth-First Search | 30 min |
+| 437. Path Sum III | Binary Tree, Depth-First Search | 45 min |
