@@ -38,3 +38,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 1448. Count Good Nodes in Binary Tree | Binary Tree, Depth-First Search | 30 min |
 | 437. Path Sum III | Binary Tree, Depth-First Search | 45 min |
 | 199. Binary Tree Right Side View | Binary Tree, Breadth-First Search | 30 min |
+| 841. Keys and Rooms | Graphs, Depth-First Search | 20 min |
