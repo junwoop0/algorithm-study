@@ -40,3 +40,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 199. Binary Tree Right Side View | Binary Tree, Breadth-First Search | Medium | 30 min |
 | 841. Keys and Rooms | Graphs, Depth-First Search | Medium | 20 min |
 | 547. Number of Provinces | Graphs, Depth-First Search | Medium | 25 min |
+| 1926. Nearest Exit from Entrance in Maze | Graphs, Breadth-First Search | Medium | 40 min |
