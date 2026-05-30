@@ -42,3 +42,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 547. Number of Provinces | Graphs, Depth-First Search | Medium | 25 min |
 | 1926. Nearest Exit from Entrance in Maze | Graphs, Breadth-First Search | Medium | 40 min |
 | 215. Kth Largest Element in an Array | Heap, Sorting | Medium | 15 min |
+| 2336. Smallest Number in Infinite Set | Heap, Hash Table | Medium | 40 min |
