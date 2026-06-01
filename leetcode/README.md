@@ -43,3 +43,4 @@ LeetCode solutions for improving programming and problem-solving skills in Pytho
 | 1926. Nearest Exit from Entrance in Maze | Graphs, Breadth-First Search | Medium | 40 min |
 | 215. Kth Largest Element in an Array | Heap, Sorting | Medium | 15 min |
 | 2336. Smallest Number in Infinite Set | Heap, Hash Table | Medium | 40 min |
+| 2300. Successful Pairs of Spells and Potions | Binary Search, Two Pointers | 40 min |
